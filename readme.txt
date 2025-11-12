@@ -1,4 +1,9 @@
+UM ES DEUTLICHER ZU MACHEN, GUCK ES MAL 
+
 Man könnte dazu sagen, es ist viel interesannter mit denen zu lernen
+HIER IST DOCH DER ERSTE PROGRAMMIERER
+
+Java ist eine tolle Programmiersprache
 
 Das ist ein Perfektes Beispiel, um GIT zu lernen. 
 Es gibt einen riesigen Unterschied zwischen GITHUB und lediglich GIT.
