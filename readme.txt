@@ -6,3 +6,5 @@ Das muss man sich merken
 
 Jorge muss JAVA lernen
 
+Da ist vieles Neues, zum Beispiel, ich
+
