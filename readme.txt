@@ -8,3 +8,4 @@ Jorge muss JAVA lernen, ABER ist auch wichtig
 
 Da ist vieles Neues, zum Beispiel, ich
 
+Wenn du es nicht kapiert hast, dann komm etwas neues
